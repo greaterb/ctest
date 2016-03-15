@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="CriticalThinking:war">
-    <output-path>$PROJECT_DIR$/target</output-path>
-    <root id="archive" name="ctest.war">
-      <element id="artifact" artifact-name="CriticalThinking:war exploded" />
-    </root>
-  </artifact>
-</component>
