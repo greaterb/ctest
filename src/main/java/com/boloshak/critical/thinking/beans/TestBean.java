@@ -29,7 +29,7 @@ import java.util.logging.Logger;
 @ManagedBean
 @SessionScoped
 public class TestBean implements Serializable {
-    Logger logger = Logger.getLogger(TestBean.class.getName());
+
 
     public static final String FILE_NAME = "resources\\questions.txt";
 
@@ -79,7 +79,6 @@ public class TestBean implements Serializable {
         QuestionParser questionParser = new QuestionParser();
 
         try {
-            logger.log(Level.INFO,fileParser.getContent().toString());
             questionParser.parse(fileParser.getContent());
         } catch (NotValidQuestionException e) {
             e.printStackTrace();
