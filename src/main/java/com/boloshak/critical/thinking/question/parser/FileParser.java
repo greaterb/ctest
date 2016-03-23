@@ -2,6 +2,8 @@ package com.boloshak.critical.thinking.question.parser;
 
 import org.apache.commons.io.FileUtils;
 
+import javax.faces.context.FacesContext;
+import javax.servlet.ServletContext;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
@@ -22,11 +24,9 @@ public class FileParser{
 
     public void parse() {
         try {
-            String path = Thread.currentThread().getContextClassLoader().getResource("questions.txt").getPath();
+            String path = ((ServletContext) FacesContext
+                    .getCurrentInstance().getExternalContext().getContext()).getRealPath(fileName);
             File file = new File(path);
-            InputStream inputStream =
-                    getClass().getClassLoader().getResourceAsStream("questions.txt");
-            FileUtils.copyInputStreamToFile(inputStream, file);
             content = FileUtils.readLines(file, "UTF-8");
         } catch (IOException e) {
             e.printStackTrace();

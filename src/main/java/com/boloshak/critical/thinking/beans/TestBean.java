@@ -31,7 +31,7 @@ import java.util.logging.Logger;
 public class TestBean implements Serializable {
 
 
-    public static final String FILE_NAME = "resources\\questions.txt";
+    public static final String FILE_NAME = "questions.txt";
 
     public static final Integer quantityQuestions = 7;
 
@@ -157,6 +157,11 @@ public class TestBean implements Serializable {
                 return true;
             }
         };
+    }
+
+    public String newTest() {
+        FacesContext.getCurrentInstance().getExternalContext().invalidateSession();
+        return "start?faces-redirect=true";
     }
 
     public boolean isImageSaved() {
