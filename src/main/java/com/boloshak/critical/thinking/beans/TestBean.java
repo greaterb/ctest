@@ -33,7 +33,7 @@ public class TestBean implements Serializable {
 
     public static final String FILE_NAME = "questions.txt";
 
-    public static final Integer quantityQuestions = 7;
+    public static final Integer quantityQuestions = 30;
 
     private String name;
 
