@@ -17,12 +17,14 @@
         Question # <h:outputText value="#{testBean.questionNumber}"/> <br/>
         <h:outputText value="#{testBean.current.text}"/>
 
-        <h:selectOneRadio value="#{testBean.currentAnswer}" layout="pageDirection" >
+        <h:selectOneRadio id="answers" value="#{testBean.currentAnswer}" layout="pageDirection" required="true" requiredMessage="You should choose any variant">
             <f:selectItems value="#{testBean.current.answer}"/>
         </h:selectOneRadio>
 
         <h:commandButton value="Next" action="#{testBean.next}" rendered="#{!testBean.endTest}" />
         <h:commandButton value="Finish" action="#{testBean.next}" rendered="#{testBean.endTest}" />
+
+        <h:message for="answers" style="color:red" />
 
     </h:form>
 </h:body>
