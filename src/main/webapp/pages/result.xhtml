@@ -6,7 +6,7 @@
 
       xmlns:ace="http://www.icefaces.org/icefaces/components">
 <h:head>
-    <title>JSF 2.0 Hello World</title>
+    <title>Critical thinking</title>
 
     <script type="text/javascript">
         setTimeout(function() {ice.ace.instance('chartForm:chart').exportToServer();}, 250);
@@ -34,14 +34,14 @@
                        highlighterBringSeriesToFront="true">
                 <ace:ajax/>
             </ace:chart>
-
+<!--
             <ace:dynamicResource disabled="#{testBean.imageSaved}"
                                  scope="session"
                                  resource="#{testBean.savedImage}"
                                  fileName="chart.png"
                                  attachment="true"
                                  type="button"
-                                 label="Download chart"/>
+                                 label="Download chart"/>-->
 
             <ace:pushButton label="Start new test" action="#{testBean.newTest}"/>
 
