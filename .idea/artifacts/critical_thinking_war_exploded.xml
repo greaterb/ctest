@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="critical-thinking:war exploded">
+    <output-path>$PROJECT_DIR$/target/ctest</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="critical-thinking" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.4" />
+          <element id="library" level="project" name="Maven: javax.faces:jsf-api:2.1" />
+          <element id="library" level="project" name="Maven: org.icefaces:icefaces-ace:4.1.1" />
+          <element id="library" level="project" name="Maven: org.icefaces:icefaces:4.1.1" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/target/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="critical-thinking/web/Web" />
+    </root>
+  </artifact>
+</component>
