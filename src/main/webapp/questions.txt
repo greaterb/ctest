@@ -1,42 +1,240 @@
 /\
-T:адекватность
-Q:Что такое адекватность ?
-- ага
-- нет
-+ я еще подумаю
+T:relevance
+Q:You conducted a successful high education search and now have three universities from which to choose.What should you not do to most thoroughly investigate your potential educators?
+- check out their websites
++ watch the news to see if the universities are mentioned 
+- research their financial situations
+- speak with people who graduated already
 \/
 /\
-T:восприимчивость
-Q:Куда пойти?
-- туда
-- сюда
-+ никуда
+T:understanding
+Q:Which is NOT an example of a persuasion technique?
+- "If you care about the sick children, give generously to our Save Our Charity Fund today!"
+- "I've been eating cornflakes since I was a child," says super-athlete Ussein Bolt."They give me energy to win … and they'll do the same for you!"
++ Adidas sneakers for teenagers are available at Sportmaster Discount Store.
+- "Send me to Almaty as your representative if you want things done. I'll stop all the government waste!"
 \/
 /\
-T:восприимчивость
-Q:Что делать ?
-- туда
-- сюда
-+ никуда
+T:logical skills
+Q:Choose the best conclusion for an argument that begins, "The other members of Mike's hockey team …"
+- won their events, so Mike will win his event, too.
+- have been training for at least six years, so Mike has been training for six years, too.
+- prefer to skate in outdoor skating rink, so Mike prefers outdoor skating rink, too.
++ wear hockey uniform with the team’s logo on it, so Mike wears it, too.
 \/
 /\
-T:адекватность
-Q:Кто виноват ?
-- ага
-- нет
-+ я еще подумаю
+T:understanding
+Q:Ann’s English teacher gives a quiz every Monday on the 50 pages of reading she assigns on Fridays. Her quizzes are becoming harder as the semester progresses, and Ann hasn't been doing very well on them. What can she do to troubleshoot the problem and hopefully get better grades on the quizzes?
+- plan to get to class early on Monday to skim the pages
+- look for a new outfit to wear on Monday so she'll be relaxed 
++ set aside time on Sunday to read and review the new material
+- spend an hour on Saturday looking over what she missed on past quizzes
 \/
 /\
-T:толлерантность
-Q:Зачем все виноват ?
-- ага
-- нет
-+ я еще подумаю
+T:clarity
+Q:Which is NOT a sound argument?
+- Sandra wanted to be a better figure skater, so she took extra lessons and practiced every day. Her skating improved so much that she entered a competition.
++ Yesterday, a black cat ran in front of me, and later, I lost my wallet. If I don't see that black cat today, I won't have any bad luck.
+- We had a storm last night with hurricane-strength winds, and many trees were downed. There was a citywide power outage.
+- On a clear day, I can see the top of Kazakhstan Flagpole Monument from my house. If it's clear tomorrow, I'll be able to see the monument.
 \/
 /\
-T:индефирентность
-Q:Что это ?
-- ага
-- нет
-+ я еще подумаю
+T:analyzing
+Q:You are trying to decide what kind of car to buy. You make a chart to compare a two-seated sports car, a two-door sedan, and a minivan in three categories. Which would NOT be a suitable category?   
+- gas mileage
+- price 
++ tire pressure
+- storage capacity
+\/
+/\
+T:understanding
+Q:Which scenario best represents a situation that has been decided by emotion alone? 
++ Tatyana hates winter, so even though she can't afford it, she takes a vacation to Egypt.
+- The school shuts down after a terrorism threat.
+- Third-quarter earnings for Marie's company were much higher than predicted.
+- Anatoly needs a new mixer, so he watches the newspaper ads and buys one when it goes on sale.
+\/
+/\
+T:understanding
+Q:When would it be better to do research in the library rather than on the Internet?
+- You are writing a report on recent Kazakhstan Supreme Court decisions.
+- You want to know the historical performance of a stock you are considering purchasing.
+- You need to compare credit card interest rates.
++ You want to find out more about the old buildings in your town.
+\/
+/\
+T:evaluating
+Q:You read a story in the newspaper about salary negotiations with public transportation workers. The workers are threatening to go on strike tomorrow if their demands for higher wages and better benefits are not met. What can you infer from this news story?
+- Health insurance premiums are very expensive.
+- The cost of gas will make ticket prices increase in the next few weeks.
++ People who ride the bus should look for possible alternative transportation. 
+- Employers never like to meet salary demands.
+\/
+/\
+T:relevance
+Q:What is wrong with this argument?  "You think we need a new regulation to control air pollution? I think we already have too many regulations. Politicians just love to pass new ones, and control us even more than they already do. It is suffocating. We definitely do not need any new regulations!"
+- The person speaking doesn't care about the environment. 
++ The person speaking has changed the subject.
+- The person speaking is running for political office. 
+- The person speaking does not understand pollution.
+\/
+/\
+T:evaluating
+Q:What should you NOT rely on when making a judgment call?
+- intuition
+- common sense 
++ gossip
+- past experience
+\/
+/\
+T:logical skills
+Q:Which is NOT a valid argument?    
+- There are six cans of tomatoes in Sergey's pantry and 14 in his basement. There are no other cans of tomatoes in his house. Therefore, he has 20 cans of tomatoes in his house.
+- Everyone in the train Astana – Karaganda yesterday was late to work. Anna was in the train Astana – Karaganda. Anna was late to work.
++ Sasha lives in either Kansas City, Kansas, or Kansas City, Missouri. If he lives in Kansas, then he is an American. 
+- No one who eats in the cafeteria likes the pizza. My boss eats in the cafeteria. Therefore, my boss does not like the pizza.
+\/
+/\
+T:accuracy
+Q:Which statement represents a judgment based on a fact? 
+- My presentation was excellent. I am sure my boss will promote me now.
+- My presentation was excellent. The clients all told me they liked it.
++ My presentation was excellent. It won an award from management.
+- My presentation was excellent. It was cited as such on my peer evaluation.
+\/
+/\
+T:accuracy
+Q:Which is a judgment, not a fact?
++ That production of Hamlet was first-rate; you'll never see it done better.
+- That production of Hamlet was first-rate; it was cited as such in the Daily News. 
+- That production of Hamlet was first-rate; it won an award this year.
+- That production of Hamlet was first-rate; 94% of audience members interviewed after the show agreed.
+\/
+/\
+T:logical skills
+Q:What is wrong with the following argument?  America—love it, or leave it!
+- There is nothing wrong with the argument.
+- It implies that if you leave the country on vacation, you do not love it. 
+- It does not tell you how to love it.
++ It presents only two options, when in fact there are many more.
+\/
+/\
+T:relevance
+Q:Which of these situations does NOT require problem solving?
+- After you get your new computer home, you find there is no mouse in the box. 
+- When you get your pictures back from being developed, you realize they are someone else's.
++ Everyone on your team wants to celebrate at the Burger House, but you just ate there last night.
+- You've been assigned to finish a report for tomorrow morning, but it is your son's birthday, and you promised you would take him to the ball game tonight.
+\/
+/\
+T:clarity
+Q:Which type of website most likely provides the most objective information about N.A. Nazarbaev?
+- the home page of a history professor who wrote a book on Nazarbaev's presidency
+- a fan group's site on famous assassinations, with the most pages devoted to Nazarbaev
+- the site of a historical preservation group that archives Nazarbaev's correspondence
++ the official site of the presidential library in Astana, Kazakhstan, devoted to telling the life story of the 1st president of Kazakhstan
+\/
+/\
+T:alanyzing
+Q:Which is NOT a likely cause of this situation?  "I can't turn on the lamp in the family room!"   
+- The lamp isn't plugged into an electrical outlet.
++ We just bought a new sofa in a color that matches the lamp. 
+- There's a power outage in the neighborhood.
+- The light bulb in the lamp has burned out.
+\/
+/\
+T:logical skills
+Q:What is wrong with the logic of the following statement?  "How can you believe his testimony? He is a convicted felon!"  
++ The fact that the person testifying was convicted of a crime does not mean he is lying.
+- A convicted felon cannot testify in court.
+- The person speaking has a bias against criminals.
+- The person speaking obviously did not attend law school.
+\/
+/\
+T:evaluating
+Q:Evidence shows that people who live in the Antarctic score higher on happiness surveys than those who live in Florida. Which is the best conclusion that can be drawn from this data? 
+- Floridians would be happier if they moved to the Antarctic.
+- People in colder climates are happier than those in warmer climates. 
+- There are only happy people in the Antarctic.
++ Those in the Antarctic who scored high on a happiness survey probably like snow.
+\/
+/\
+T:relevance
+Q:Which of the following is a sound argument? 
+- Rain was predicted yesterday, so I took my umbrella to our outdoor rehearsal of Romeo & Juliet. It didn't rain. To make sure it doesn't rain during today's rehearsal, I'll take my umbrella with me.
+- You and Denis broke up the night you had dinner at Arista, so don't worry: you and Max won't break up until you go to Arista again!
++ My Math teacher bases a lot of our grade on class participation. Last quarter, he said I needed to participate more. If I want a better grade this quarter, I need to take part in more class discussions.
+- Our washing machine is broken. The last time we had trouble with it, we hired a new repairman. He's probably the reason the machine broke!
+\/
+/\
+T:understanding
+Q:Read the following paragraph and answer questions 22 and 23. I always knew I wanted to be a marine biologist. "When I was six, my parents took me to an aquarium, and I was hooked. But it was in college, when I got to work on an ocean research cruise that I decided to specialize in oceanography. The trip was sponsored by the Plankton Investigative Service, and our goal was to collect as many different types of the microscopic plants and animals as we could, in order to see what, if any, impact the increased number of people fishing there had on the marine ecosystem. Our group was divided into two teams, each responsible for gathering a different type of plankton. Working with the phytoplankton, especially the blue-green algae, was fascinating. We measured the chlorophyll in the water to determine where, and in what quantity, the phytoplankton was. This worked well because the water was so clear, free of sediment and contaminants." What is phytoplankton?
+- another name for chlorophyll
++ a microscopic plant
+- a microscopic animal 
+- a type of fish
+\/
+/\
+T:understanding
+Q:The goal of the study group was to investigate whether more people fishing in the area had 
+- a positive impact on the local economy. 
+- depleted the supply of fish.
+- made more work for marine biologists.
++ a negative impact on the health of the surrounding waters.
+\/
+/\
+T:analyzing
+Q:You want to sell your three-year-old car and buy a new one. Which website would probably give you the best information on how to sell a used carAuto Trader: get the latest pricing and reviews for new and used cars; tips on detailing for a higher price
++ Auto Trader: get the latest pricing and reviews for new and used cars; tips on detailing for a higher price
+- Better Business Bureau: provides free consumer and business education; consult us before you get started in your new business!
+- New Wheels: research every make and model of Detroit's latest offerings
+- Car Buying Tips: everything you need to know before you shop for your new car
+\/
+/\
+T:evaluating
+Q:Which explanation is weakest? 
++ The steak was overcooked because I cooked it too long.
+- Dima didn't drive his car today because it was in the shop for repairs.
+- We don't belong to the country club anymore because we can't afford it. 
+- Zhenya overslept because she stayed up very late last night.
+\/
+/\
+T:evaluating
+Q:Which of these problems is most severe? 
+- Your professor is sick and misses class on the morning you are supposed to take a big exam.
++ You lose track of your schedule and forget to study for a big exam.
+- You can't find one of the books you need to study for a big exam.
+- The big exam is harder than you thought it would be and includes a section you did not study.
+\/
+/\
+T:evaluating
+Q:Which is the most important reason for evaluating information found on the Internet? 
+- Authors who publish on the Internet are typically less skilled than those who publish in print.
+- Web writers are usually biased.
++ Anyone can publish on the Internet; there is no guarantee that what you are reading is truthful or objective.
+- Information found in print is almost always more accurate than that found on the Internet.
+\/
+/\
+T:logical skills
+Q:What is wrong with the following argument?  "We should not change our grading system to numbers instead of letters. The next thing you know, they will take away our names and refer to us by numbers, too!"  
++ The conclusion is too extreme.
+- There is nothing wrong with the argument.
+- Students should not have a say in the type of grading system used in their schools. 
+- It does not explain why they want to get rid of letter grades.
+\/
+/\
+T:understanding
+Q:What is the real problem, as opposed to being an offshoot of that problem  
+- Your bank charges a $40 fee for overdrafts.
+- You wrote a check at the grocery store, but did not have the money to cover it. 
++ Every month, you spend more money than you earn.
+- Last month, you paid $120 in overdraft charges to your bank.
+\/
+/\
+T:clarity
+Q:Which is an example of hyperbole? 
+- The deck of our boat was as slippery as melted butter!
++ This bag of groceries weighs a ton!
+- Onto each life some rain must fall.
+- Marco's lasagna is better than Mira's.
 \/
