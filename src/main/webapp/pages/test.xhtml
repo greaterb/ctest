@@ -21,8 +21,8 @@
             <f:selectItems value="#{testBean.current.answer}"/>
         </h:selectOneRadio>
 
-        <h:commandButton value="Next" action="#{testBean.next}" rendered="#{!testBean.endTest}" />
-        <h:commandButton value="Finish" action="#{testBean.next}" rendered="#{testBean.endTest}" />
+        <ace:pushButton value="Next" action="#{testBean.next}" rendered="#{!testBean.endTest}" />
+        <ace:pushButton value="Finish" action="#{testBean.next}" rendered="#{testBean.endTest}" />
 
         <h:message for="answers" style="color:red" />
 
